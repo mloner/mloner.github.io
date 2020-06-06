@@ -1,0 +1,37 @@
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 150px 0;
+}
+.main_bg{
+	background-image: url('proger.jpg');
+}
+  
+.text-center {
+  text-align: center;
+}
+.br0 {
+    border-radius: 0px !important;
+}
+
+.button {
+    background-color: white;
+    border: 2px solid black; /* Параметры рамки */
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 23px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+body{
+        background: url('proger.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
